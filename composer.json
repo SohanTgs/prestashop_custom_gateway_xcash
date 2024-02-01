@@ -1,0 +1,11 @@
+{
+    "name": "vendor/viserlab",
+    "autoload": {
+        "psr-4": {
+            "Viserlab\\": "controllers/"
+        },
+        "files": [
+            "helpers/helpers.php"
+        ]
+    }
+}
